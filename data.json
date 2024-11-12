@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "Facebook",
+      "definition": "Facebook is a social networking platform that allows users to connect with friends and family, share content, and engage with various online communities.",
+      "image": "./assets/facebook.png"
+    },
+    {
+      "id": 2,
+      "title": "Instagram",
+      "definition": "Instagram is a social media platform for sharing photos and videos, featuring filters, likes, comments, and Stories for dynamic content.",
+      "image": "./assets/instagram.webp"
+    },
+    {
+      "id": 3,
+      "title": "Youtube",
+      "definition": "YouTube is a video-sharing platform where users can upload, view, and interact with a variety of content, including music, tutorials, and vlogs. ",
+      "image": "./assets/youtube.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Tiktok",
+      "definition": "TikTok is a social media platform that allows users to create, share, and discover short-form videos, often featuring music and creative editing.",
+      "image": "./assets/tiktok.webp"
+    },
+    {
+      "id": 5,
+      "title": "Spotify",
+      "definition": "Spotify is a digital music streaming service that offers users access to millions of songs, podcasts, and playlists, allowing them to listen to music on-demand and create personalized playlists.",
+      "image": "./assets/spotify.png"
+    },
+    {
+        "id": 6,
+        "title": "Tandem",
+        "definition": "Tandem is a language exchange app designed to connect language learners with native speakers, it allows users to find conversation partners based on language, location, and interests, facilitating practice and fluency in various languages.",
+        "image": "./assets/tandem.png"
+      },
+      {
+        "id": 7,
+        "title": "Telegram",
+        "definition": "Telegram is a cloud-based messaging app that enables users to send text messages, voice messages, photos, videos, and files of any type, as well as create group chats and channels for broadcasting messages to a large audience.",
+        "image": "./assets/telegram.webp"
+      },
+      {
+        "id": 8,
+        "title": "GCash",
+        "definition": "GCash is a mobile wallet and financial services app based in the Philippines, designed to facilitate cashless transactions.",
+        "image": "./assets/gcash.png"
+      },
+      {
+        "id": 9,
+        "title": "Shopee",
+        "definition": "Shopee is a popular e-commerce platform in Southeast Asia and Taiwan, known for its user-friendly interface and wide range of products.",
+        "image": "./assets/shopee.png"
+      },
+      {
+        "id": 10,
+        "title": "Lazada",
+        "definition": "Lazada is one of the leading e-commerce platforms in Southeast Asia, founded in 2012 by Rocket Internet.",
+        "image": "./assets/lazada.jpg"
+      }
+  ]
